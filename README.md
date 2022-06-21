@@ -13,7 +13,6 @@ You can use ANSI 104 layout keycaps for this keyboard.
 4. https://kbfirmware.com/
 5. https://www.kicad.org/
 6. https://github.com/g200kg/kicad-lib-arduino
-7. https://github.com/perigoso/keyswitch-kicad-library
 
 ## LICENCE
 
