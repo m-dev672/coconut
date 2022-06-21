@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Arduino")(type "KiCad")(uri "${KIPRJMOD}/Schematic_Library/Arduino.kicad_sym")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "${KIPRJMOD}/Schematic_Library/MX_Alps_Hybrid.kicad_sym")(options "")(descr ""))
+)
