@@ -1961,7 +1961,7 @@
     (property "Value" "KEYSW" (id 1) (at 60.96 104.14 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (id 2) (at 60.96 101.6 0)
+    (property "Footprint" "MX_Only:MXOnly-1.25U-NoLED" (id 2) (at 60.96 101.6 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 60.96 101.6 0)
@@ -2379,7 +2379,7 @@
     (property "Value" "KEYSW" (id 1) (at 111.76 104.14 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "MX_Only:MXOnly-1.5U-NoLED" (id 2) (at 111.76 101.6 0)
+    (property "Footprint" "MX_Only:MXOnly-1.25U-NoLED" (id 2) (at 111.76 101.6 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 111.76 101.6 0)
@@ -2950,13 +2950,13 @@
       (reference "K_31") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1.25U-NoLED")
     )
     (path "/674840e5-a567-4807-bd27-40d0d1083fb1"
-      (reference "K_32") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "K_32") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1.25U-NoLED")
     )
     (path "/89cb937e-26ca-48ab-af86-700433b6247b"
       (reference "K_33") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/b670bfa7-a8b0-4c33-afe5-e5a7d5911028"
-      (reference "K_34") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1.5U-NoLED")
+      (reference "K_34") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-1.25U-NoLED")
     )
     (path "/93a698a0-07b2-4e84-93ac-1d917cde8321"
       (reference "K_35") (unit 1) (value "KEYSW") (footprint "MX_Only:MXOnly-2.25U-NoLED")
